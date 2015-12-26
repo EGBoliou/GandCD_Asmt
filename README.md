@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Samsung Galaxy Accelerometer Application Data Analysis
+#Samsung Galaxy Accelerometer Application Data Analysis
 
 The R script (run_analysis.R) in this repository is a self-contained program to output a tidy data file.
 
@@ -16,7 +15,4 @@ extracts only the measurements on the mean and standard deviation for each measu
 changes the data column names to descriptive names
 changes the activity data to descriptive names
 creates a second data set with the average of each variable for each activity and each subject
-=======
-# GandCD_Asmt
-Getting and Cleaning Data Assignment
->>>>>>> 6de0c7d3fce6b8cecedbbd76d967a66317cc7186
+
